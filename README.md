@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Dr !
+Dr ! 几岁了呢~ 在什么学校呢~
+
+请多关照!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=deng-rui.deng-rui)
 
