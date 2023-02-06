@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **deng-rui/deng-rui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Dr ! 几岁了呢~ 在什么学校呢~
+Dr ! A student, with various strange interests.  
+Perhaps you are already an adult and would like to work with you on a project that you love together.  
 
 请多关照!
 
+## Viewed times
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=deng-rui.deng-rui)
 
+## Contact me
 [Telegram](https://t.me/derdct)  
+Discord : Dr#8964
 Mail: dr@der.kim
 
 
