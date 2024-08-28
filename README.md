@@ -19,9 +19,6 @@ Perhaps you are already an adult and would like to work with you on a project th
 
 请多关照!
 
-## Viewed times
-![visitors](https://visitor-badge.glitch.me/badge?page_id=deng-rui.deng-rui)
-
 ## Contact me
 [Telegram](https://t.me/derdct)  
 Discord : Dr#8964
