@@ -20,9 +20,9 @@ Perhaps you are already an adult and would like to work with you on a project th
 请多关照!
 
 ## Contact me
-[Telegram](https://t.me/derdct)  
-Discord : Dr#8964
-Mail: dr@der.kim
+Telegram : [Telegram](https://t.me/derdct)    
+Discord : Dr#8964  
+Mail: dr@der.kim  
 
 
 ![Dr's github stats](https://github-readme-stats.vercel.app/api/?username=deng-rui&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
