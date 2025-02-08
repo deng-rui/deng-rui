@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm `Dr` and I am a student from HuBei, China with a passion for coding and technology. Currently, I am honing my skills in Java(Kotlin/JavaScript), C#, PHP, HTML,  and C++ and have a keen interest in back-end operations. 
-A complete full-stack developer, with projects already in the pipeline.  Also have all sorts of weird interests.
-I want to develop interesting projects with you! New challenges and opportunities to learn and grow!
+I'm `Dr` and I am a student from HuBei, China with a passion for coding and technology. Currently, I am honing my skills in Java(Kotlin/JavaScript), C#, PHP, HTML,  and C++ and have a keen interest in back-end operations.   
+A complete full-stack developer, with projects already in the pipeline.  Also have all sorts of weird interests.  
+I want to develop interesting projects with you! New challenges and opportunities to learn and grow!  
 
 ## Contact me
 Telegram : [Telegram](https://t.me/derdct)    
