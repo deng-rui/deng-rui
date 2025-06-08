@@ -4,7 +4,7 @@ A complete full-stack developer, with projects already in the pipeline.  Also ha
 I want to develop interesting projects with you! New challenges and opportunities to learn and grow!  
 
 ## Contact me
-Telegram : [Telegram](https://t.me/derdct)    
+Telegram : [Telegram](https://t.me/AscalonTeng)    
 Discord : dr.deng(Dr#8964)  
 Mail: dr@der.kim  
 
